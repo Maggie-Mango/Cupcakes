@@ -1,6 +1,7 @@
 .flashy {
   font-style: italic;
   color: red;
+  text-align: center;
 }
 
 .best {
@@ -19,4 +20,13 @@
 
 .strong {
   font-style: italic;
+}
+
+.body-text {
+  border: 10px solid green;
+  padding: 35px;
+  background-color: ivory;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
 }
