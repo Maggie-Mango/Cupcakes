@@ -1,0 +1,22 @@
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+.best {
+  font-weight: bold;
+  background-color: seashell;
+  color: blueviolet;
+  text-align: center;
+}
+
+.centered-image {
+  width: 50%;
+  margin: auto;
+  height: auto;
+  display: block;
+}
+
+.strong {
+  font-style: italic;
+}
