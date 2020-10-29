@@ -9,6 +9,7 @@
   background-color: seashell;
   color: blueviolet;
   text-align: center;
+  font-size: 25px;
 }
 
 .centered-image {
@@ -29,4 +30,8 @@
   margin-top: 20px;
   margin-bottom: 20px;
   box-sizing: border-box;
+}
+
+.not-important {
+  font-size: 10px;
 }
